@@ -4,11 +4,11 @@
 menu:
   pt:
   - {name: 'Fichas',   url: ''}
-  - {name: 'Blog',     url: 'https://vidal.press/?utm_source=gitfichas'}
+  - {name: 'Vidal.press',     url: 'https://vidal.press/?utm_source=gitfichas'}
   - {name: 'Sobre',    url: 'sobre'}
   en:
   - {name: 'Cards', url: 'en'}
-  - {name: 'Blog',     url: 'https://vidal.press/?utm_source=gitfichas'}
+  - {name: 'Vidal.press',     url: 'https://vidal.press/?utm_source=gitfichas'}
   - {name: 'About',    url: 'about'}
 
 #-------------------------------
