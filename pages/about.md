@@ -6,9 +6,9 @@ translated: /sobre
 lang: "en"
 ---
 
-# About GitFichas
+# About BashFichas
 
-I welcome you to GitFichas!
+I welcome you to BashFichas!
 
 GitFichas is a collection of study cards about git!
 
