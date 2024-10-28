@@ -4,24 +4,20 @@
 menu:
   pt:
   - {name: 'Fichas',   url: ''}
-  - {name: 'Blog',     url: 'https://jtemporal.com/?utm_source=gitfichas'}
+  - {name: 'Blog',     url: 'https://vidal.press/?utm_source=gitfichas'}
   - {name: 'Sobre',    url: 'sobre'}
-  - {name: 'Livro',    url: 'https://jtemporal.com/microlivrodegit?utm_source=gitfichas'}
   en:
   - {name: 'Cards', url: 'en'}
-  - {name: 'Blog',     url: 'https://jtemporal.com/en?utm_source=gitfichas'}
+  - {name: 'Blog',     url: 'https://vidal.press/?utm_source=gitfichas'}
   - {name: 'About',    url: 'about'}
-  - {name: 'Book',    url: 'https://jtemporal.com/gitmicrobook?utm_source=gitfichas'}
 
 #-------------------------------
 # Contact Section
 
 social:
-- {icon: 'twitter',   link: 'https://twitter.com/jesstemporal'}
-- {icon: 'instagram', link: 'https://instagram.com/gitfichas'}
-- {icon: 'github',    link: 'https://github.com/jtemporal'}
-- {icon: 'linkedin',  link: 'https://linkedin.com/in/jessicatemporal'}
-- {icon: 'envelope',  link: 'mailto:gitfichas@jtemporal.com'}
+- {icon: 'github',    link: 'https://github.com/davinyleticia'}
+- {icon: 'linkedin',  link: 'https://linkedin.com/in/davinyleticia'}
+- {icon: 'envelope',  link: 'mailto:hello@vidal.press'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
@@ -33,12 +29,12 @@ social:
 seo:
   pt:
     description: 'Fichas de estudo sobre Git em Português 🇧🇷'
-    rel-author: 'https://jtemporal.com'
-    rel-publisher: 'https://jtemporal.com'
+    rel-author: 'https://vidal.press'
+    rel-publisher: 'https://vidal.press'
   en:
     description: 'Git study cards in English 🇺🇸'
-    rel-author: 'https://jtemporal.com'
-    rel-publisher: 'https://jtemporal.com'
+    rel-author: 'https://vidal.press'
+    rel-publisher: 'https://vidal.press'
 
 #-------------------------------
 # Google Analytics Section
