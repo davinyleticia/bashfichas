@@ -8,9 +8,9 @@
     {% endif %}
   {% endfor %}
   {% if page.translated %}
-    <a href="{{ site.github.url }}{{ page.translated }}"> 🇺🇸 </a>
+    <a href="{{ site.github.url }}{{ page.translated }}"> [EN] </a>
   {% else %}
-    <a href="{{ site.github.url }}/en"> 🇺🇸 </a>
+    <a href="{{ site.github.url }}/en"> [EN] </a>
   {% endif %}
 {% else %}
   <!-- for english pages provide the portuguese version -->
@@ -22,8 +22,8 @@
     {% endif %}
   {% endfor %}
   {% if page.translated %}
-    <a href="{{ site.github.url }}{{ page.translated }}"> 🇧🇷 </a>
+    <a href="{{ site.github.url }}{{ page.translated }}"> [PT-BR] </a>
   {% else %}
-    <a href="{{ site.github.url }}/"> 🇧🇷 </a>
+    <a href="{{ site.github.url }}/"> [PT-BR] </a>
   {% endif %}
 {% endif %}
