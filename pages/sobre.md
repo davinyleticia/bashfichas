@@ -12,7 +12,7 @@ Te desejo boas-vindas ao BashFichas!
 
 O BashFichas vai te ajudar a estudar Bash em Português!
 
-Este projeto foi criado e é mantido por [Daviny Letícia](https://vidal.press/).
+Este projeto foi criado e é mantido por [Daviny Letícia](https://vidal.press/), com selo TipsBook®
 
 <p>Site Baseado no <a href="https://gitfichas.com">GitFichas</a> feito pela <a href="https://jtemporal.com">jtemporal</a></p>
 
