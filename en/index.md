@@ -1,7 +1,7 @@
 ---
 layout: home
-title: "GitStudyCards | GitFichas"
-image: "https://gitfichas.com/assets/img/thumbnail.png"
+title: "GitStudyCards | BashFichas"
+image: "https://bashfichas.vidal.press/assets/img/thumbnail.png"
 permalink: "/en"
 lang: "en"
 ---
